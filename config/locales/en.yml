@@ -3,3 +3,9 @@
 
 en:
   hello: "Hello world"
+
+  # Active Record models configuration
+  activerecord:
+    attributes:
+      user:
+        password_digest: "Password"
